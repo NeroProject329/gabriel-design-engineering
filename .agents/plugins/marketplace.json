@@ -1,0 +1,20 @@
+{
+  "name": "gabriel-design-marketplace",
+  "interface": {
+    "displayName": "Gabriel Design Engineering"
+  },
+  "plugins": [
+    {
+      "name": "gabriel-design-engineering",
+      "source": {
+        "source": "local",
+        "path": "./plugins/gabriel-design-engineering"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Creativity"
+    }
+  ]
+}
