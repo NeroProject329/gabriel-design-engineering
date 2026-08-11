@@ -1,0 +1,31 @@
+{
+  "name": "gabriel-design-engineering",
+  "version": "0.2.0",
+  "description": "Orquestrador pessoal para design engineering premium, UI/UX, frontend, motion, 3D e validação visual.",
+  "author": {
+    "name": "Gabriel"
+  },
+  "keywords": [
+    "frontend",
+    "design-engineering",
+    "ui",
+    "ux",
+    "motion",
+    "threejs",
+    "figma"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Gabriel Design Engineering",
+    "shortDescription": "Orquestra design, frontend, motion, 3D e QA visual.",
+    "longDescription": "Camada principal de orquestração para projetos premium de frontend e produto. Seleciona apenas as habilidades e integrações necessárias para cada tarefa, preservando qualidade visual, performance, responsividade e consistência.",
+    "developerName": "Gabriel",
+    "category": "Creativity",
+    "capabilities": [
+      "Interactive",
+      "Read",
+      "Write"
+    ],
+    "defaultPrompt": "Use Gabriel Design Engineering como orquestrador. Entenda o objetivo, selecione somente as habilidades e integrações necessárias, explique brevemente a seleção e só então execute a tarefa."
+  }
+}
